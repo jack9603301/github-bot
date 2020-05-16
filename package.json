@@ -54,9 +54,6 @@
     },
     "github-bot": {
       "labelToAuthor": {
-        "bug": "jack9603301",
-        "Feature Request": "jack9603301",
-        "question": "jack9603301"
       }
     }
   },
