@@ -54,9 +54,9 @@
     },
     "github-bot": {
       "labelToAuthor": {
-        "bug": "xuexb",
-        "enhancement": "xuexb",
-        "question": "xuexb"
+        "bug": "jack9603301",
+        "Feature Request": "jack9603301",
+        "question": "jack9603301"
       }
     }
   },
